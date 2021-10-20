@@ -13,3 +13,13 @@ body{
     padding-top: 20px;
 
 }
+.nav{
+    background-color: #eeeeee;
+    height: 70px;
+    width: 100%;
+    text-align: center;
+
+}
+#navh2{
+    padding-top: 20px;
+}
