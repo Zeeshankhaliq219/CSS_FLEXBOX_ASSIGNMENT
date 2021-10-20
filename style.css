@@ -1,0 +1,15 @@
+body{
+    margin: 25px;
+}
+
+.header{
+    background-color: #eeeeee;
+    height: 70px;
+    width: 100%;
+    text-align: center;
+
+}
+#headerh2{
+    padding-top: 20px;
+
+}
