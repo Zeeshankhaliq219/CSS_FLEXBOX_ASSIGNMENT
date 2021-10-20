@@ -27,20 +27,19 @@ body{
     
     height: 500px;
     width: 100%;
-    
     display: flex;
    
 
 }
 #content{
-    background-color: lightgray;
+    background-color: #eeeeee;
     display: flex;
     width: 20%;
     justify-content: center;
     margin: 10px;
 }
 #main{
-    background-color: lightgray;
+    background-color: #eeeeee;
     display: flex;
     width: 60%;
     justify-content: center;
@@ -48,7 +47,7 @@ body{
 
 }
 #rightcontent{
-    background-color: lightgray;
+    background-color: #eeeeee;
     width: 20%;
     display: flex;
     justify-content: center;
@@ -66,4 +65,13 @@ body{
     text-align: center;
     padding: 60%;
 }
+.footer{
+    background-color: #eeeeee;
+    height: 70px;
+    width: 100%;
+    text-align: center;
+}
+#footerh2{
+    padding-top: 20px;
 
+}
