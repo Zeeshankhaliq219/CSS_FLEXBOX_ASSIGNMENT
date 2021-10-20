@@ -23,3 +23,47 @@ body{
 #navh2{
     padding-top: 20px;
 }
+.center{
+    
+    height: 500px;
+    width: 100%;
+    
+    display: flex;
+   
+
+}
+#content{
+    background-color: lightgray;
+    display: flex;
+    width: 20%;
+    justify-content: center;
+    margin: 10px;
+}
+#main{
+    background-color: lightgray;
+    display: flex;
+    width: 60%;
+    justify-content: center;
+    margin: 10px;
+
+}
+#rightcontent{
+    background-color: lightgray;
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+#contenth2{
+    text-align: center;
+    padding: 60%; 
+}
+#mainh2{
+    text-align: center;
+    padding: 20%;
+}
+#rightcontenth2{
+    text-align: center;
+    padding: 60%;
+}
+
